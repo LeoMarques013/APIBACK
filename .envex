@@ -1,0 +1,7 @@
+PORT=3000
+FRONT_URL=http://localhost:3001
+JWT_SECRET=preencha-com-uma-chave-aleatoria-de-32-caracteres-ou-mais
+JWT_REFRESH_SECRET=preencha-com-outra-chave-aleatoria
+ACCESS_TOKEN_TTL=15m
+ADMIN_EMAIL=admin@biblioteca.local
+ADMIN_PASSWORD=troque-esta-senha
